@@ -1,15 +1,15 @@
-<<<<<<< HEAD
+
 flask
 pandas
 scikit-learn
 numpy
 matplotlib
 seaborn
-=======
+
 flask
 pandas
 scikit-learn
 numpy
 matplotlib
 seaborn
->>>>>>> 8c96cd5baf989b501be7e3b72802d4575b62e51b
+
