@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 #----------Working---
 # import pandas as pd
@@ -587,4 +587,4 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=port)
 
 
->>>>>>> 8c96cd5baf989b501be7e3b72802d4575b62e51b
+
