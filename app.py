@@ -196,7 +196,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
 
 # Load Data
-data = pd.read_csv(r'D:\spam\spam.csv')
+data = pd.read_csv('spam.csv')
 data.drop_duplicates(inplace=True)
 data['Category'] = data['Category'].replace(['ham', 'spam'], ['Not Spam', 'Spam'])
 
