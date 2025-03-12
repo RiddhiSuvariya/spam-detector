@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 services:
   - type: web
     name: spam-detector
@@ -5,3 +6,12 @@ services:
     buildCommand: ""
     startCommand: python app.py
     plan: free
+=======
+services:
+  - type: web
+    name: spam-detector
+    env: python
+    buildCommand: ""
+    startCommand: python app.py
+    plan: free
+>>>>>>> 8c96cd5baf989b501be7e3b72802d4575b62e51b
